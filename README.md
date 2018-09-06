@@ -25,3 +25,7 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](http://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+
+### Dúvidas
+
+Crie uma "Issue" com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
