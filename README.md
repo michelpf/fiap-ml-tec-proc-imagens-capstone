@@ -1,6 +1,6 @@
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
-## Estimando Preços de Automóveis Utilizando Modelos de Regressão
+## Estimação de Preços de Automóveis Usados
 
 ![Image of Car](https://github.com/michelpf/fiap-ml-prog-ia-python-capstone/blob/master/imagens/car.jpg)
 
