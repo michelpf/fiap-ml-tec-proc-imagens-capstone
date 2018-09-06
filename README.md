@@ -1,14 +1,20 @@
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
+## Estimando Preços de Automóveis Utilizando Modelos de Regressão
+
 ![Image of Car](https://github.com/michelpf/fiap-ml-prog-ia-python-capstone/blob/master/imagens/car.jpg)
 
-Repositório dedicado ao projeto final da disiciplina Programando IA com Python do curso de MBA de Inteligência Artificial e Machine Learning
+Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas aulas práticas. Por meio uma trilha guiada para construir um classificador que permitirá predizer o valor de um automóvel baseado em algumas características que cada grupo deverá escolher.
 
-## Programando Inteligência Artificial com Python
+## Instruções
 
 Nas aulas utilizaremos a distribuição Ananconda, com uso intensivo do Jupyter Notebook, que há vem instalado nesta distribuição.
 
 Para instalar, acesse a sessão de [Downloads](https://www.anaconda.com/download) do Anaconda.
+
+### Template guiado
+
+Utilize o arquivo Jupyter "projeto-final/automobile-price-prediction.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
 
 ### Bibliotecas utilizadas
 
