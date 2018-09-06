@@ -26,6 +26,17 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 - [seaborn](http://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
+### Critérios de avaliação
+
+O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição pela média geral sobre cada conceito.
+
+- Exploração de Dados
+- Preparação de Dados
+- Desenvolvimento do Modelo
+- Treinamento e Teste do Modelo
+- Validação e Otimização do Modelo
+- Conclusões Finais
+
 ### Dúvidas
 
 Crie uma "Issue" com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
