@@ -1,6 +1,6 @@
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
-![Image of Car](https://github.com/michelpf/fiap-ml-prog-ia-python-capstone/imagens/car.jpg)
+![Image of Car](https://github.com/michelpf/fiap-ml-prog-ia-python-capstone/blob/master/imagens/car.jpg)
 
 Repositório dedicado ao projeto final da disiciplina Programando IA com Python do curso de MBA de Inteligência Artificial e Machine Learning
 
