@@ -28,14 +28,16 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
 ### Critérios de avaliação
 
-O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição pela média geral sobre cada conceito.
+O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição levando em consideração o peso de cada tema.
 
-- Exploração de Dados
-- Preparação de Dados
-- Desenvolvimento do Modelo
-- Treinamento e Teste do Modelo
-- Validação e Otimização do Modelo
-- Conclusões Finais
+- Exploração de Dados (n1 _peso 1_)
+- Preparação de Dados (n2 _peso 2_)
+- Desenvolvimento do Modelo (n3 _peso 2_)
+- Treinamento e Teste do Modelo (n4 _peso 1_)
+- Validação e Otimização do Modelo (n5 _peso 2_)
+- Conclusões Finais (n6 _peso 2_)
+
+Nota Final = n1 + 2 * n2 + 2 * n3 + n4 + 2 * n5 + 2 * n6
 
 ### Dúvidas
 
