@@ -1,12 +1,10 @@
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
-## Tecnologia de Processamento de Imagens aka _Visão Computacional_
-
-## Smart Hiring: Entrevista Virtual
+## Estimação de Preços de Automóveis Usados
 
 ![Image of Car](https://github.com/michelpf/fiap-ml-prog-ia-python-capstone/blob/master/imagens/car.jpg)
 
-Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas aulas práticas. Por meio uma trilha guiada para construir uma aplicação que tem por objetivo analisar imagens e extrair uma série de informações que serão utilizadas para compor uma análise de seleção de candidatos para uma entrevista simulada.
+Este projeto final tem como objetivo explorar os conhecimentos adquiridos nas aulas práticas. Por meio uma trilha guiada para construir um classificador que permitirá predizer o valor de um automóvel baseado em algumas características que cada grupo deverá escolher.
 
 ## Instruções
 
@@ -22,9 +20,8 @@ Utilize o arquivo Jupyter "projeto-final/automobile-price-prediction.ipynb", sig
 
 Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
-- [OpenCV](https://opencv.org/)
-- [DLib](http://dlib.net/)
 - [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](http://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
@@ -33,15 +30,14 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
 O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição levando em consideração o peso de cada tema.
 
-- Detector de objeto (cartão de identificação) (n1 _peso 2_)
-- Detector de faces (n2 _peso 2_)
-- Detector de sorriso (n3 _peso 1_)
-- Detector de bocejo (n4 _peso 1_)
-- Detector de olhos fechados (n5 _peso 1_)
-- Descritor de objetos na cena (n6 _peso 2_)
-- Conclusões Finais (n7 _peso 2_)
+- Exploração de Dados (n1 _peso 1_)
+- Preparação de Dados (n2 _peso 2_)
+- Desenvolvimento do Modelo (n3 _peso 2_)
+- Treinamento e Teste do Modelo (n4 _peso 1_)
+- Validação e Otimização do Modelo (n5 _peso 2_)
+- Conclusões Finais (n6 _peso 2_)
 
-Nota Final = 2 * n1 + 2 * n2 + n3 + n4 + n5 + 2 * n6 + 2 * n7
+Nota Final = n1 + 2 * n2 + 2 * n3 + n4 + 2 * n5 + 2 * n6
 
 ### Dúvidas
 
