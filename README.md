@@ -37,13 +37,6 @@ Também será utilizado o modelo de classificação de objetos [YOLOv3](https://
 
 O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição levando em consideração o peso de cada tema.
 
-- Exploração de Dados (n1 _peso 1_)
-- Preparação de Dados (n2 _peso 2_)
-- Desenvolvimento do Modelo (n3 _peso 2_)
-- Treinamento e Teste do Modelo (n4 _peso 1_)
-- Validação e Otimização do Modelo (n5 _peso 2_)
-- Conclusões Finais (n6 _peso 2_)
-
 - Detector de objeto (n1 _peso 1_)
 - Detector de faces (n2 _peso 2)
 - Detector de sorriso (n3 _peso 1_)
