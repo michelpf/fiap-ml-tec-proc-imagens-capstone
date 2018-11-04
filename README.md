@@ -18,7 +18,7 @@ Para instalar, acesse a sessão de [Downloads](https://www.anaconda.com/download
 
 Utilize o arquivo Jupyter "projeto-final/smart-hiring.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
 
-> **Atenção: o grupo/alino que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
+> **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
 ### Bibliotecas utilizadas
 
